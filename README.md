@@ -36,7 +36,7 @@ Redis Session Memory（不可用时自动退化为进程内记忆）
 
 ## 快速开始
 
-### 方式一：Docker（推荐面试演示）
+### 方式一：Docker
 
 ```bash
 cp .env.example .env
